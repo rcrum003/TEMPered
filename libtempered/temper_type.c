@@ -37,6 +37,7 @@ struct temper_type known_temper_types[]={
 			.subtype_strings = (char *[]){
 				"TEMPerHumV1.0rHu",
 				"TEMPerHumM12V1.0",
+				"TEMPer1F_H1V1.4F",
 				NULL
 			}
 		},
